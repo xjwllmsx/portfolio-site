@@ -5,6 +5,7 @@ body {
     font-size: 24px;
 }
 
+
 /*Navigation Bar*/
 nav {
     display: flex;
@@ -49,3 +50,29 @@ nav .wrapper {
     color: #292929;
 }
 
+
+/*Main Content*/
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100% ;
+    margin: 36px 0;
+}
+
+main .wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.card-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.homepage-card {
+    height: 385px;
+    width: auto;
+    margin: 12px;
+}
