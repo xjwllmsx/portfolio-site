@@ -50,6 +50,14 @@ nav .wrapper {
     color: #292929;
 }
 
+#work {
+    color: #29bdb0;
+    font-weight: bold;
+}
+
+#about:hover {
+    color: #29bdb0;
+}
 
 /*Main Content*/
 main {
